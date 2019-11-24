@@ -1,6 +1,6 @@
 import React from 'react'
 import { createMuiTheme, Theme } from '@material-ui/core'
-import { grey, deepOrange, blueGrey, indigo } from '@material-ui/core/colors'
+import { grey, indigo } from '@material-ui/core/colors'
 import { ThemeProvider } from '@material-ui/styles'
 
 const theme: Theme = createMuiTheme({
