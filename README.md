@@ -1,3 +1,7 @@
+# Playroom: Material UI
+
+Adding [Material UI](https://material-ui.com/) to [Playroom](https://github.com/seek-oss/playroom) to design apps following Material Design standards in the Browser.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
